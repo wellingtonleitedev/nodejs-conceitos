@@ -13,13 +13,15 @@
   <img alt="GitHub language count" src="https://img.shields.io/github/languages/count/wellios/nodejs-conceitos.svg">
 
   <img alt="Repository size" src="https://img.shields.io/github/repo-size/wellios/nodejs-conceitos.svg">
-  <a href="https://github.com/lukemorales/gostack-fullstack-meetapp/commits/master">
+  <a href="https://github.com/wellios/nodejs-conceitos/commits/master">
     <img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/wellios/nodejs-conceitos.svg">
   </a>
 
-  <a href="https://github.com/lukemorales/gostack-fullstack-meetapp/issues">
+  <a href="https://github.com/wellios/nodejs-conceitos/issues">
     <img alt="Repository issues" src="https://img.shields.io/github/issues/wellios/nodejs-conceitos.svg">
   </a>
+  
+  [![Codacy Badge](https://api.codacy.com/project/badge/Grade/1b49a63a3ec043e192147f2bb97fbb45)](https://app.codacy.com/manual/Wellios/nodejs-conceitos?utm_source=github.com&utm_medium=referral&utm_content=Wellios/nodejs-conceitos&utm_campaign=Badge_Grade_Dashboard)
 
   <img alt="GitHub" src="https://img.shields.io/github/license/wellios/nodejs-conceitos.svg">
 </p>
@@ -37,8 +39,6 @@
 </p>
 
 ## 🛠 Technologies
-
-[![Codacy Badge](https://api.codacy.com/project/badge/Grade/1b49a63a3ec043e192147f2bb97fbb45)](https://app.codacy.com/manual/Wellios/nodejs-conceitos?utm_source=github.com&utm_medium=referral&utm_content=Wellios/nodejs-conceitos&utm_campaign=Badge_Grade_Dashboard)
 
 This project was developed at the [RocketSeat GoStack Bootcamp](https://rocketseat.com.br/bootcamp) with the following technologies:
 
