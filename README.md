@@ -38,6 +38,8 @@
 
 ## 🛠 Technologies
 
+[![Codacy Badge](https://api.codacy.com/project/badge/Grade/1b49a63a3ec043e192147f2bb97fbb45)](https://app.codacy.com/manual/Wellios/nodejs-conceitos?utm_source=github.com&utm_medium=referral&utm_content=Wellios/nodejs-conceitos&utm_campaign=Badge_Grade_Dashboard)
+
 This project was developed at the [RocketSeat GoStack Bootcamp](https://rocketseat.com.br/bootcamp) with the following technologies:
 
 - [NodeJS](https://nodejs.org)
