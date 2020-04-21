@@ -21,7 +21,9 @@
     <img alt="Repository issues" src="https://img.shields.io/github/issues/wellios/nodejs-conceitos.svg">
   </a>
   
-  [![Codacy Badge](https://api.codacy.com/project/badge/Grade/1b49a63a3ec043e192147f2bb97fbb45)](https://app.codacy.com/manual/Wellios/nodejs-conceitos?utm_source=github.com&utm_medium=referral&utm_content=Wellios/nodejs-conceitos&utm_campaign=Badge_Grade_Dashboard)
+  <a href="https://app.codacy.com/manual/Wellios/nodejs-conceitos?utm_source=github.com&utm_medium=referral&utm_content=Wellios/nodejs-conceitos&utm_campaign=Badge_Grade_Dashboard">
+    <img src="https://api.codacy.com/project/badge/Grade/1b49a63a3ec043e192147f2bb97fbb45"/>
+  </a>
 
   <img alt="GitHub" src="https://img.shields.io/github/license/wellios/nodejs-conceitos.svg">
 </p>
