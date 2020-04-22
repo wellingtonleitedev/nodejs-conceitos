@@ -1,7 +1,7 @@
 <h1 align="center">
     <img alt="GoStack MeetApp" src="https://github.com/Wellios/nodejs-conceitos/blob/master/src/assets/logo-gostack.svg" />
     <br>
-    Bootcamp GoStack - Challende 02: Node.js Concepts
+    Bootcamp GoStack - Challenge 02: Node.js Concepts
 </h1>
 
 <h4 align="center">
